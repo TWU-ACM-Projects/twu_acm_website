@@ -2,5 +2,5 @@
 
 Hello everyone, 
 
-Kevin Here welcom to the Texas Woman's University ACM (Association of Computing Machinery) GitHub page.
+Kevin Here welcome to the Texas Woman's University ACM (Association of Computing Machinery) GitHub page.
 
