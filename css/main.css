@@ -1,0 +1,37 @@
+#footer ul {
+	margin-left: 0;
+	padding-left: 0;
+	display: inline;
+}
+#footer ul li {
+	 margin-left: 0;
+	 padding: 3px 15px;
+	 border-left: 1px solid #000;
+	 list-style: none;
+	 display: inline;
+ }
+ #footer ul li.first {
+ margin-left: 0;
+ border-left: none;
+ list-style: none;
+ display: inline;
+ }
+ 
+ #navigation ul {
+	margin-left: 0;
+	padding-left: 0;
+	display: inline;
+}
+#navigation ul li {
+	 margin-left: 0;
+	 padding: 3px 15px;
+	 border-left: 1px solid #000;
+	 list-style: none;
+	 display: inline;
+ }
+ #navigation ul li.first {
+ margin-left: 0;
+ border-left: none;
+ list-style: none;
+ display: inline;
+ }
