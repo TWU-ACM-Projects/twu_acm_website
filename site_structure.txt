@@ -1,0 +1,23 @@
+1.	First iteration is a static site. – HTML5 – CSS3– Maybe some JS
+	a.	Getting site set up with hosting on acm.org
+		i.	Need to get officers and Faculty advisor added
+		ii.	Need to get last year’s financial form finished
+		iii.Set up ftp for uploading info to hosting servers
+			1.	Win-Scp works well for this
+	b.	Look of site
+		i.	Overall theme
+			1.	Colors
+			2.	Positioning of objects
+			3.	navigation
+	c.	Index page
+	d.	Contact page
+	e.	About us page
+	f.	Document page
+		i.	Interesting articles
+		ii.	Tutorials – List style with link for pdf version of tutorial
+			1.	Downloaded
+			2.	Member Created
+	g.	Events page
+		i.	Upcoming events
+		ii.	Past events
+		iii.	Photos of events
